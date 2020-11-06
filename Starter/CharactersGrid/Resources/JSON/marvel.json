@@ -1,0 +1,93 @@
+[
+    {
+        "id": "blackpanther",
+        "name": "Black Panther",
+        "imageName": "blackpanther",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "steverogers",
+        "name": "Captain America",
+        "imageName": "captainamerica",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "ironman",
+        "name": "Iron Man",
+        "imageName": "ironman",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "thor",
+        "name": "Thor",
+        "imageName": "thor",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "hulk",
+        "name": "Hulk",
+        "imageName": "hulk",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "blackwidow",
+        "name": "Black Widow",
+        "imageName": "blackwidow",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "captainmarvel",
+        "name": "Captain Marvel",
+        "imageName": "captainmarvel",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "antman",
+        "name": "Ant Man",
+        "imageName": "antman",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "hawkeye",
+        "name": "Hawkeye",
+        "imageName": "hawkeye",
+        "category": "AVENGERS"
+    },
+    {
+        "id": "wolverine",
+        "name": "Wolverine",
+        "imageName": "wolverine",
+        "category": "X-Men"
+    },
+    {
+        "id": "charlesxavier",
+        "name": "Professor X",
+        "imageName": "xavier",
+        "category": "X-Men"
+    },
+    {
+        "id": "cyclops",
+        "name": "Cyclops",
+        "imageName": "cyclops",
+        "category": "X-Men"
+    },
+    {
+        "id": "jeangrey",
+        "name": "Jean Grey",
+        "imageName": "jeangrey",
+        "category": "X-Men"
+    },
+    {
+        "id": "magneto",
+        "name": "Magneto",
+        "imageName": "magneto",
+        "category": "X-Men"
+    },
+    {
+        "id": "mystique",
+        "name": "Mystique",
+        "imageName": "mystique",
+        "category": "X-Men"
+    }
+]
+

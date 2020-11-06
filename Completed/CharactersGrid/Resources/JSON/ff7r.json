@@ -1,0 +1,143 @@
+[
+    {
+        "id": "cloudstrife",
+        "name": "Cloud",
+        "job": "EX-SOLDIER",
+        "imageName": "cloud",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "aerithgainsborough",
+        "name": "Aerith",
+        "job": "Flower Seller",
+        "imageName": "aerith",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "tifalockhart",
+        "name": "Tifa",
+        "job": "Bar Hostess",
+        "imageName": "tifa",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "barretwallace",
+        "name": "Barret",
+        "job": "Leader",
+        "imageName": "barret",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "jessieraspberry",
+        "name": "Jessie",
+        "job": "Bomb Specialist",
+        "imageName": "jessie",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "redxiii",
+        "name": "Red XIII",
+        "job": "Research Specimen",
+        "imageName": "redxiii",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "biggs",
+        "name": "Biggs",
+        "job": "Fighter",
+        "imageName": "biggs",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "wedge",
+        "name": "Wedge",
+        "job": "Fighter",
+        "imageName": "wedge",
+        "category": "AVALANCHE"
+    },
+    {
+        "id": "shinra",
+        "name": "Pres. Shinra",
+        "job": "President",
+        "imageName": "shinra",
+        "category": "shinra"
+    },
+    {
+        "id": "rufusshinra",
+        "name": "Rufus",
+        "job": "Vice President",
+        "imageName": "rufus",
+        "category": "shinra"
+    },
+    {
+        "id": "professorhojo",
+        "name": "Prof. Hojo",
+        "job": "VP-R&D",
+        "imageName": "hojo",
+        "category": "shinra"
+    },
+    {
+        "id": "professorhojo",
+        "name": "Scarlet",
+        "job": "SVP-Weapon",
+        "imageName": "scarlet",
+        "category": "shinra"
+    },
+    {
+        "id": "reeve",
+        "name": "Reeve",
+        "job": "SVP-Urban",
+        "imageName": "reeve",
+        "category": "shinra"
+    },
+    {
+        "id": "reno",
+        "name": "Reno",
+        "job": "Turks",
+        "imageName": "reno",
+        "category": "shinra"
+    },
+    {
+        "id": "rude",
+        "name": "Rude",
+        "job": "Turks",
+        "imageName": "rude",
+        "category": "shinra"
+    },
+    {
+        "id": "tseng",
+        "name": "Tseng",
+        "job": "Turks",
+        "imageName": "tseng",
+        "category": "shinra"
+    },
+    {
+        "id": "heidegger",
+        "name": "Heidegger",
+        "job": "SVP-Safety",
+        "imageName": "heidegger",
+        "category": "shinra"
+    },
+    {
+        "id": "sephiroth",
+        "name": "Sephiroth",
+        "job": "SOLDIER",
+        "imageName": "sephiroth",
+        "category": "jenova"
+    },
+    {
+        "id": "dreamweaver",
+        "name": "Dreamweaver",
+        "job": "????",
+        "imageName": "dreamweaver",
+        "category": "jenova"
+    },
+    {
+        "id": "jenova",
+        "name": "Jenova",
+        "job": "????",
+        "imageName": "jenova",
+        "category": "jenova"
+    }
+]
+
